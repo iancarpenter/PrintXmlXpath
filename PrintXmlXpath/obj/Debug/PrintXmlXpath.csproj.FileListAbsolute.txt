@@ -1,0 +1,6 @@
+c:\users\ian\documents\visual studio 2015\Projects\PrintXmlXpath\PrintXmlXpath\bin\Debug\PrintXmlXpath.exe.config
+c:\users\ian\documents\visual studio 2015\Projects\PrintXmlXpath\PrintXmlXpath\obj\Debug\PrintXmlXpath.csprojResolveAssemblyReference.cache
+c:\users\ian\documents\visual studio 2015\Projects\PrintXmlXpath\PrintXmlXpath\bin\Debug\PrintXmlXpath.exe
+c:\users\ian\documents\visual studio 2015\Projects\PrintXmlXpath\PrintXmlXpath\bin\Debug\PrintXmlXpath.pdb
+c:\users\ian\documents\visual studio 2015\Projects\PrintXmlXpath\PrintXmlXpath\obj\Debug\PrintXmlXpath.exe
+c:\users\ian\documents\visual studio 2015\Projects\PrintXmlXpath\PrintXmlXpath\obj\Debug\PrintXmlXpath.pdb
