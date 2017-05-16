@@ -20,3 +20,5 @@ Microsoft Visual C# Step by Step
 
 The first line displays the full path and file name of the xml file, the second line displays the XPath to the element of interest and the last 
 line is the text of the xml element.
+
+The "engine" of this utility is copied from this Stackoverflow answer: http://stackoverflow.com/a/241291/55640 provided by Jon Skeet.
