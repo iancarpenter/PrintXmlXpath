@@ -1,0 +1,8 @@
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\bin\Debug\PrintXmlXpathTests.dll
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\bin\Debug\PrintXmlXpathTests.pdb
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\bin\Debug\PrintXmlXpath.exe
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\bin\Debug\PrintXmlXpath.pdb
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\obj\Debug\PrintXmlXpathTests.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\obj\Debug\PrintXmlXpathTests.dll
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\PrintXmlXpath\PrintXmlXpathTests\obj\Debug\PrintXmlXpathTests.pdb
